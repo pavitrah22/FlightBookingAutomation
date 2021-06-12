@@ -117,14 +117,14 @@ formatter.match({
   "location": "BlazeWelcomeSteps.i_Am_On_Blaze_Flight_Booking()"
 });
 formatter.result({
-  "duration": 11199351900,
+  "duration": 9687262600,
   "status": "passed"
 });
 formatter.match({
   "location": "BlazeWelcomeSteps.i_Am_On_Blaze_Flight_Welcome_Booking()"
 });
 formatter.result({
-  "duration": 168803200,
+  "duration": 152442100,
   "status": "passed"
 });
 formatter.match({
@@ -137,7 +137,7 @@ formatter.match({
   "location": "BlazeWelcomeSteps.i_choose_departure(String)"
 });
 formatter.result({
-  "duration": 103881000,
+  "duration": 79559100,
   "status": "passed"
 });
 formatter.match({
@@ -150,21 +150,21 @@ formatter.match({
   "location": "BlazeWelcomeSteps.i_choose_destination(String)"
 });
 formatter.result({
-  "duration": 102790700,
+  "duration": 71507700,
   "status": "passed"
 });
 formatter.match({
   "location": "BlazeWelcomeSteps.i_click_find_flight_button()"
 });
 formatter.result({
-  "duration": 726110100,
+  "duration": 613252100,
   "status": "passed"
 });
 formatter.match({
   "location": "BlazeWelcomeSteps.i_verify_choose_the_flight_page_is_displayed()"
 });
 formatter.result({
-  "duration": 76917300,
+  "duration": 67726200,
   "status": "passed"
 });
 formatter.uri("chooseFlights.feature");
@@ -247,14 +247,14 @@ formatter.match({
   "location": "ChooseFlightsSteps.i_choose_flight(String)"
 });
 formatter.result({
-  "duration": 868982800,
+  "duration": 782804900,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseFlightsSteps.i_am_on_purchase_page()"
 });
 formatter.result({
-  "duration": 72944000,
+  "duration": 515699700,
   "status": "passed"
 });
 formatter.scenario({
@@ -383,7 +383,7 @@ formatter.match({
   "location": "ChooseFlightsSteps.i_enter_passenger_name(String)"
 });
 formatter.result({
-  "duration": 206980100,
+  "duration": 202109200,
   "status": "passed"
 });
 formatter.match({
@@ -396,7 +396,7 @@ formatter.match({
   "location": "ChooseFlightsSteps.i_enter_address(String)"
 });
 formatter.result({
-  "duration": 277981000,
+  "duration": 209337100,
   "status": "passed"
 });
 formatter.match({
@@ -409,21 +409,21 @@ formatter.match({
   "location": "ChooseFlightsSteps.i_enter_card(String)"
 });
 formatter.result({
-  "duration": 159153800,
+  "duration": 204453700,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseFlightsSteps.i_click_purchase_flight()"
 });
 formatter.result({
-  "duration": 664233700,
+  "duration": 1069720300,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseFlightsSteps.i_Validate_Confirmation_Page_Url()"
 });
 formatter.result({
-  "duration": 21464900,
+  "duration": 20037600,
   "status": "passed"
 });
 formatter.scenario({
@@ -453,21 +453,21 @@ formatter.match({
   "location": "ChooseFlightsSteps.i_am_on_Purchase_order_page()"
 });
 formatter.result({
-  "duration": 51771500,
+  "duration": 59635200,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseFlightsSteps.i_validate_the_PO_ID()"
 });
 formatter.result({
-  "duration": 96974300,
+  "duration": 100246900,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseFlightsSteps.i_validate_amount()"
 });
 formatter.result({
-  "duration": 54671400,
+  "duration": 62106600,
   "status": "passed"
 });
 });
